@@ -1,0 +1,3 @@
+/* client/src/styles/geoportal.css */
+.leaflet-popup-content { margin: 10px 14px; }
+.county-popup .leaflet-popup-content { margin: 0; } /* we fully control padding inside */

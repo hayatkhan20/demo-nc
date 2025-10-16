@@ -1,0 +1,16 @@
+/* styles/popup.css */
+.leaflet-popup-content-wrapper.county-popup {
+  border-radius: 12px;
+  box-shadow: 0 4px 18px rgba(0,0,0,.25);
+  border: 1px solid #ddd;
+}
+.leaflet-popup-content {
+  margin: 0;
+  padding: 0; /* we already pad inside the popup HTML */
+}
+@media (max-width: 600px) {
+  .leaflet-popup-content-wrapper.county-popup {
+    max-width: 92vw;
+    max-height: 70vh;
+  }
+}
