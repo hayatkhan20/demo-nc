@@ -1,29 +1,23 @@
-// client/src/lib/api.js
-
-// VITE_API_BASE_URL should be like: https://server-nc.onrender.com  (no trailing slash required)
-const RAW = import.meta.env.VITE_API_BASE_URL || '';
-export const API_BASE = RAW.replace(/\/$/, '') + '/api';   // ensure single /api
+const API = import.meta.env.VITE_API_BASE_URL;
 
 export async function getBasemapConfig() {
-  const r = await fetch(`${API_BASE}/map/basemap-config`);
+  const r = await fetch(`${API}/map/basemap-config`);
   if (!r.ok) throw new Error('Basemap config failed');
   return r.json();
 }
 
 export const endpoints = {
-  // vector layers (via dataProxy router)
-  counties:  `${API_BASE}/data/counties`,
-  precincts: `${API_BASE}/data/precincts`,
-  house:     `${API_BASE}/data/house`,
-  senate:    `${API_BASE}/data/senate`,
-  congress:  `${API_BASE}/data/congress`,
-
-  // summaries/availability
-  voterAvailable: `${API_BASE}/voter/available`,
-  hisAvailable:   `${API_BASE}/his/available`,
-
-  // optional helpers if you need them later
-  search: (q) => `${API_BASE}/search?q=${encodeURIComponent(q)}`,
+  counties:  `${API}/data/counties`,
+  precincts: `${API}/data/precincts`,
+  house:     `${API}/data/house`,
+  senate:    `${API}/data/senate`,
+  congress:  `${API}/data/congress`
 };
 
-export const tsEndpoint = (group, year) => `${API_BASE}/timeseries/${group}/${year}`;
+export const tsEndpoint = (group, year) => `${API}/timeseries/${group}/${year}`;
+
+export const YEARS = {
+  congress: ['2016', '2022', 'ref'], // 'ref' = alt proposal
+  house: ['2017', '2018', '2019', '2022'],
+  senate: ['2017', '2018', '2021', '2022']
+};
