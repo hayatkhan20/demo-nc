@@ -16,6 +16,8 @@ It combines modern web technologies with a spatial database (PostGIS) to deliver
 - County, precinct, and district boundaries
 - Layer toggling and spatial overlays
 
+<img width="1902" height="880" alt="1" src="https://github.com/user-attachments/assets/4a0b76e8-16f9-44c6-91fd-d169567be165" />
+
 ### 2. Time Series Analysis
 - Visualization of district boundary changes over time
 - Supports congressional, house, and senate districts
