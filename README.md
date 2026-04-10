@@ -53,6 +53,7 @@ It combines modern web technologies with a spatial database (PostGIS) to deliver
 <img width="742" height="796" alt="8" src="https://github.com/user-attachments/assets/f91a8703-6ef8-4ac3-b23e-fe84f0d9c9c1" />
 
 **Election History Filter**
+
 <img width="727" height="807" alt="9" src="https://github.com/user-attachments/assets/603dee4f-93cc-4c7d-8051-9b1b31e29cf6" />
 
 
