@@ -1,4 +1,4 @@
-<img width="1830" height="857" alt="10" src="https://github.com/user-attachments/assets/2ae28ce3-c7ab-47dc-bd4d-75cc766f9dd1" /># NC Geoportal – Geospatial Voter & Election Analytics Platform
+# NC Geoportal – Geospatial Voter & Election Analytics Platform
 
 ## 🌍 Overview
 The NC Geoportal is a full-stack geospatial web application designed to analyze and visualize voter registration, demographic distributions, and election history across North Carolina.
@@ -16,8 +16,10 @@ It combines modern web technologies with a spatial database (PostGIS) to deliver
 - County, precinct, and district boundaries
 - Layer toggling and spatial overlays
 
+**Base Layers Visulaization (Counties, Precincts, State House, State Senate, U.S. Congress)**
 <img width="1902" height="880" alt="1" src="https://github.com/user-attachments/assets/4a0b76e8-16f9-44c6-91fd-d169567be165" />
 
+**7) Multiple base layers overlayed at each other**
 <img width="1501" height="782" alt="7" src="https://github.com/user-attachments/assets/c4002310-5493-49a5-8844-588335b3bd02" />
 
 
