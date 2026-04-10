@@ -63,8 +63,12 @@ It combines modern web technologies with a spatial database (PostGIS) to deliver
   - Voter distribution (race, gender, party, age)
   - Percentage breakdowns
 - Intelligent fallback for counties without data
+
+**Demographic Data Summarized in Popup for Each County (Party and Race, Ethnicity, Gender)**
 <img width="1482" height="776" alt="2" src="https://github.com/user-attachments/assets/e1a3becc-e110-4745-ac52-bf52da1e5974" />
 
+
+**Demographic Data Summarized in Popup for Each County (Age Band )**
 <img width="1506" height="791" alt="3" src="https://github.com/user-attachments/assets/d91139b1-06ec-487a-8f57-f72c14719346" />
 
 
