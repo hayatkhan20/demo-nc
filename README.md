@@ -19,7 +19,7 @@ It combines modern web technologies with a spatial database (PostGIS) to deliver
 **Base Layers Visulaization (Counties, Precincts, State House, State Senate, U.S. Congress)**
 <img width="1902" height="880" alt="1" src="https://github.com/user-attachments/assets/4a0b76e8-16f9-44c6-91fd-d169567be165" />
 
-**7) Multiple base layers overlayed at each other**
+**Multiple base layers overlayed at each other**
 <img width="1501" height="782" alt="7" src="https://github.com/user-attachments/assets/c4002310-5493-49a5-8844-588335b3bd02" />
 
 
@@ -27,8 +27,14 @@ It combines modern web technologies with a spatial database (PostGIS) to deliver
 - Visualization of district boundary changes over time
 - Supports congressional, house, and senate districts
 - Compare different redistricting plans
+
+**Time Series (Comparison of boudries for U.S. Congress for different years)**
 <img width="1697" height="798" alt="4" src="https://github.com/user-attachments/assets/c8b10e37-357e-4ee3-bc5f-cecdc2cfd7e8" />
+
+**Time Series (Comparison of boudries for State House for different years)**
 <img width="1630" height="798" alt="5" src="https://github.com/user-attachments/assets/718b8714-598a-448e-8ea8-c2f46be7275c" />
+
+**Time Series (Comparison of boudries for Precincts for different years)**
 <img width="1572" height="802" alt="6" src="https://github.com/user-attachments/assets/7bd39a95-a6b0-462a-bee2-7652c51087fe" />
 
 
@@ -42,8 +48,11 @@ It combines modern web technologies with a spatial database (PostGIS) to deliver
   - Race, Gender, Party, Ethnicity, Age Band
   - Voting methods, election types, turnout
 - Results displayed in tabular format
+
+**Demographics Filter by each County** 
 <img width="742" height="796" alt="8" src="https://github.com/user-attachments/assets/f91a8703-6ef8-4ac3-b23e-fe84f0d9c9c1" />
 
+**Election History Filter**
 <img width="727" height="807" alt="9" src="https://github.com/user-attachments/assets/603dee4f-93cc-4c7d-8051-9b1b31e29cf6" />
 
 
