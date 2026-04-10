@@ -75,6 +75,7 @@ It combines modern web technologies with a spatial database (PostGIS) to deliver
   - Demographic details
   - Full election participation history
 
+**Voter Profile Based on voter ID**
 <img width="1902" height="888" alt="11" src="https://github.com/user-attachments/assets/43d869b4-f968-4fab-9697-177e66868e96" />
 <img width="1446" height="778" alt="11B" src="https://github.com/user-attachments/assets/89fe82e0-23c4-48fc-9c36-96fd37fd8aa3" />
 
@@ -83,6 +84,8 @@ It combines modern web technologies with a spatial database (PostGIS) to deliver
 - County-level choropleth maps
 - Dynamic visualization by party selection
 - Gradient intensity based on voter concentration
+
+**Heat Maps by Party**
 <img width="1830" height="857" alt="10" src="https://github.com/user-attachments/assets/95799055-55e7-43a1-a779-7c998d58e0fb" />
 
 
