@@ -1,4 +1,4 @@
-# NC Geoportal – Geospatial Voter & Election Analytics Platform
+<img width="1830" height="857" alt="10" src="https://github.com/user-attachments/assets/2ae28ce3-c7ab-47dc-bd4d-75cc766f9dd1" /># NC Geoportal – Geospatial Voter & Election Analytics Platform
 
 ## 🌍 Overview
 The NC Geoportal is a full-stack geospatial web application designed to analyze and visualize voter registration, demographic distributions, and election history across North Carolina.
@@ -18,10 +18,19 @@ It combines modern web technologies with a spatial database (PostGIS) to deliver
 
 <img width="1902" height="880" alt="1" src="https://github.com/user-attachments/assets/4a0b76e8-16f9-44c6-91fd-d169567be165" />
 
+<img width="1501" height="782" alt="7" src="https://github.com/user-attachments/assets/c4002310-5493-49a5-8844-588335b3bd02" />
+
+
 ### 2. Time Series Analysis
 - Visualization of district boundary changes over time
 - Supports congressional, house, and senate districts
 - Compare different redistricting plans
+<img width="1697" height="798" alt="4" src="https://github.com/user-attachments/assets/c8b10e37-357e-4ee3-bc5f-cecdc2cfd7e8" />
+<img width="1630" height="798" alt="5" src="https://github.com/user-attachments/assets/718b8714-598a-448e-8ea8-c2f46be7275c" />
+<img width="1572" height="802" alt="6" src="https://github.com/user-attachments/assets/7bd39a95-a6b0-462a-bee2-7652c51087fe" />
+
+
+
 
 ### 3. Advanced Filtering System
 - Dual-panel filtering:
@@ -31,12 +40,23 @@ It combines modern web technologies with a spatial database (PostGIS) to deliver
   - Race, Gender, Party, Ethnicity, Age Band
   - Voting methods, election types, turnout
 - Results displayed in tabular format
+<img width="742" height="796" alt="8" src="https://github.com/user-attachments/assets/f91a8703-6ef8-4ac3-b23e-fe84f0d9c9c1" />
+
+<img width="727" height="807" alt="9" src="https://github.com/user-attachments/assets/603dee4f-93cc-4c7d-8051-9b1b31e29cf6" />
+
+
+
 
 ### 4. County-Level Demographics Popups
 - Clickable counties display:
   - Voter distribution (race, gender, party, age)
   - Percentage breakdowns
 - Intelligent fallback for counties without data
+<img width="1482" height="776" alt="2" src="https://github.com/user-attachments/assets/e1a3becc-e110-4745-ac52-bf52da1e5974" />
+
+<img width="1506" height="791" alt="3" src="https://github.com/user-attachments/assets/d91139b1-06ec-487a-8f57-f72c14719346" />
+
+
 
 ### 5. Individual Voter Profile
 - Search using **NC_ID**
@@ -44,10 +64,16 @@ It combines modern web technologies with a spatial database (PostGIS) to deliver
   - Demographic details
   - Full election participation history
 
+<img width="1902" height="888" alt="11" src="https://github.com/user-attachments/assets/43d869b4-f968-4fab-9697-177e66868e96" />
+<img width="1446" height="778" alt="11B" src="https://github.com/user-attachments/assets/89fe82e0-23c4-48fc-9c36-96fd37fd8aa3" />
+
+
 ### 6. Heatmaps / Gradient Maps
 - County-level choropleth maps
 - Dynamic visualization by party selection
 - Gradient intensity based on voter concentration
+<img width="1830" height="857" alt="10" src="https://github.com/user-attachments/assets/95799055-55e7-43a1-a779-7c998d58e0fb" />
+
 
 ---
 
